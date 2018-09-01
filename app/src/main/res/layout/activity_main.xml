@@ -30,6 +30,7 @@
         android:layout_marginEnd="36dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
+        android:background="@color/colorPrimary"
         android:onClick="btCadastrar"
         android:text="Cadastre-se"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
