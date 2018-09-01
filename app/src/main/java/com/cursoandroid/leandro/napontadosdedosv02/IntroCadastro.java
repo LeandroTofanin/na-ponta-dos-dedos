@@ -10,6 +10,7 @@ import com.cursoandroid.leandro.napontadosdedosv02.activity.LoginActivity;
 
 public class IntroCadastro extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
