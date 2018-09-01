@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "940063078837",
+    "firebase_url": "https://napontadosdedosv02.firebaseio.com",
+    "project_id": "napontadosdedosv02",
+    "storage_bucket": "napontadosdedosv02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940063078837:android:a90e59eee1cc03f9",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.leandro.napontadosdedosv02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940063078837-vbeet3us2korasekobn6thgr651b23h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.leandro.napontadosdedosv02",
+            "certificate_hash": "9d4fefb159b43c3cc3a69b3239a9f775191722fb"
+          }
+        },
+        {
+          "client_id": "940063078837-sv5i03kqg37iavjor9itdaf0l4be5t39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfowoq9uYrciycBZqcRpl07dzDRaUeEK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940063078837-sv5i03kqg37iavjor9itdaf0l4be5t39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NaPontaDosDedosV02</string>
+    <string name="crie_sua_conta_gr_tis">Crie sua conta grátis</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+</resources>
