@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".IntroCadastro">
+    tools:context=".activity.activity.IntroCadastro">
 
     <TextView
         android:id="@+id/textView"
@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="24dp"
         android:onClick="btEntrar"
         android:text="Já tenho uma conta"
         android:textColor="@android:color/black"
